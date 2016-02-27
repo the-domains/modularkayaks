@@ -16,20 +16,20 @@ keywords:
   - version
   - skellefte
 description: 'Here comes the Stand Up Paddle board version following the success of the modular concept from Point 65. The RumRunner is an innovative, high performance while stable, take-apart touring SUP with a displacement hull, making it a fast straight tracking board on which to explore, exercise, and then take back home in the back of your car.'
-datePublished: '2016-02-27T13:43:41.232Z'
-dateModified: '2016-02-27T13:43:37.104Z'
+datePublished: '2016-02-27T13:44:18.685Z'
+dateModified: '2016-02-27T13:44:01.834Z'
 author: []
 related: []
 app_links: []
 title: Vor allem von Point65°N
+sourcePath: _posts/2016-02-27-vor-allem-von-point65degreen.md
+published: true
 authors: []
 publisher:
   name: Point65
   domain: kayaks.point65.com
   url: 'http://kayaks.point65.com'
   favicon: 'http://kayaks.point65.com/static/favicons/favicon-16x16.png'
-sourcePath: _posts/2016-02-27-vor-allem-von-point65degreen.md
-published: true
 url: vor-allem-von-point65degreen/index.html
 _context: 'http://schema.org'
 _type: MediaObject
