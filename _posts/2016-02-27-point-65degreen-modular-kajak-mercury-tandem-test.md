@@ -1,24 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.testberichte.de'
-  name: Testberichte
-  favicon: 'http://www.testberichte.de/img-v3/de_DE/favicon.ico'
-  domain: www.testberichte.de
-keywords: []
-description: 'Vergleichen Merken Aktueller Test mit der Gesamtnote Gut (1,8) Preis/Leistung: 1,6, „Super-Tipp" „Ein herausragendes Bootskonzept für Leute, die mit einem starren 5,5-Meter-Boot ein Problem haben - und das sind nicht wenige. Der Zweier kann zudem leicht zum Solokajak angebaut werden. Die nicht passgenauen Anschlüsse sind schade, aber kein Betriebsrisiko."'
-inLanguage: de
-app_links: []
-isBasedOnUrl: 'http://www.testberichte.de/p/point-65-n-tests/modular-kajak-mercury-testbericht.html'
-title: Point 65°N Modular Kajak Mercury Tandem Test
-datePublished: '2016-02-27T13:02:32.266Z'
-dateModified: '2016-02-27T13:00:11.194Z'
-sourcePath: _posts/2016-02-27-point-65degreen-modular-kajak-mercury-tandem-test.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.testberichte.de/p/point-65-n-tests/modular-kajak-mercury-testbericht.html'
+inLanguage: de
+starred: false
+keywords: []
+description: 'Vergleichen Merken Aktueller Test mit der Gesamtnote Gut (1,8) Preis/Leistung: 1,6, „Super-Tipp" „Ein herausragendes Bootskonzept für Leute, die mit einem starren 5,5-Meter-Boot ein Problem haben - und das sind nicht wenige. Der Zweier kann zudem leicht zum Solokajak angebaut werden. Die nicht passgenauen Anschlüsse sind schade, aber kein Betriebsrisiko."'
+datePublished: '2016-02-27T13:03:31.021Z'
+dateModified: '2016-02-27T13:02:41.189Z'
+author: []
+related: []
+app_links: []
+title: Point 65°N Modular Kajak Mercury Tandem Test
+sourcePath: _posts/2016-02-27-point-65degreen-modular-kajak-mercury-tandem-test.md
+published: true
+authors: []
+publisher:
+  name: Testberichte
+  domain: www.testberichte.de
+  url: 'http://www.testberichte.de'
+  favicon: 'http://www.testberichte.de/img-v3/de_DE/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
