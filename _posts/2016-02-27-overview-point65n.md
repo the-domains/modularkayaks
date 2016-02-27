@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T13:09:22.913Z'
-dateModified: '2016-02-27T13:09:22.438Z'
+datePublished: '2016-02-27T13:16:36.498Z'
+dateModified: '2016-02-27T13:16:31.566Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Overview - Point65n</h1><img src="http://kayaks.point65.com/static/webimages/mercurygtxsolo_lime.jpg" /></article>
+<article style=""><h1>Overview - Point65n</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9045a749c3a6acbe4fdf82ceca9b3273a2be56bd.jpg" /></article>
