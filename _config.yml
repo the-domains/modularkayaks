@@ -1,6 +1,6 @@
 name: Modularkayaks
 favicon: null
-layout_spectrum: 0.75181
+layout_spectrum: 0.49007
 typography_spectrum: 0.25542
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.9688286227174103
 purpose: []
