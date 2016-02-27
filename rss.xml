@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Modularkayaks]]></title>
         <description><![CDATA[Modularkayaks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modularkayaks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 12:56:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 12:57:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modularkayaks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/918334f4a899941a163bd3d448668a43ed172e10.jpg" alt="" title="">]]></description>
+            <link>http://kayaks.point65.com/</link>
+            <guid isPermaLink="false">2723b32d-354c-4e00-a3f9-5b831770dbb2</guid>
+            <pubDate>Sat, 27 Feb 2016 12:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://kayaks.point65.com/static/webimages/mercurygtxsolo_red.jpg">]]></description>
