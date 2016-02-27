@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://point65mercurysolo.blogspot.de/2013/08/mein-erster-tag-mit-dem-mercury-solo.html'
+inLanguage: de
+starred: false
+keywords: []
+description: 'Urlaub ist was Feines - zum Beispiel gibt es einem die Möglichkeit, sich um 9 Uhr an einem Freitag Morgen ins Auto zu setzen und sich auf den Weg zu Sport Schröer zu machen - wo ich auch Punkt 10 Uhr eintraf.'
+datePublished: '2016-02-27T13:54:35.452Z'
+dateModified: '2016-02-27T13:54:14.791Z'
 author:
   - name: Mark Venne
     url: 'https://plus.google.com/118221349844816045685'
     avatar: {}
 related: []
-publisher:
-  url: 'http://point65mercurysolo.blogspot.de'
-  name: Point65mercurysolo
-  favicon: 'http://point65mercurysolo.blogspot.de/favicon.ico'
-  domain: point65mercurysolo.blogspot.de
-keywords: []
-description: 'Urlaub ist was Feines - zum Beispiel gibt es einem die Möglichkeit, sich um 9 Uhr an einem Freitag Morgen ins Auto zu setzen und sich auf den Weg zu Sport Schröer zu machen - wo ich auch Punkt 10 Uhr eintraf.'
-inLanguage: de
 app_links: []
-isBasedOnUrl: 'http://point65mercurysolo.blogspot.de/2013/08/mein-erster-tag-mit-dem-mercury-solo.html'
 title: Point65 Mercury Solo
-datePublished: '2016-02-27T13:54:07.815Z'
-dateModified: '2016-02-27T13:53:27.479Z'
 sourcePath: _posts/2016-02-27-point65-mercury-solo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Point65mercurysolo
+  domain: point65mercurysolo.blogspot.de
+  url: 'http://point65mercurysolo.blogspot.de'
+  favicon: 'http://point65mercurysolo.blogspot.de/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
