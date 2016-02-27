@@ -1,14 +1,10 @@
 ---
-author:
-  - name: OutdoorplayKayak
-    url: 'https://www.youtube.com/user/OutdoorplayKayak'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Of0wKdhehec'
+inLanguage: en
+starred: false
 keywords:
   - kayak
   - duration
@@ -21,7 +17,13 @@ keywords:
   - skeg
   - cockpit
 description: 'The Mercury GTX Modular Kayak by Point 65 N is a high performance, decked modular touring kayak with a large cockpit that lets you explore, and then take back home in the trunk of your car. Like the recreational versions, it features the innovative snap tap solution.'
-inLanguage: en
+datePublished: '2016-02-27T13:12:30.982Z'
+dateModified: '2016-02-27T13:12:17.022Z'
+author:
+  - name: OutdoorplayKayak
+    url: 'https://www.youtube.com/user/OutdoorplayKayak'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Of0wKdhehec&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Of0wKdhehec'
 title: Point 65 N Mercury GTX Modular Kayak
-datePublished: '2016-02-27T13:12:08.046Z'
-dateModified: '2016-02-27T13:10:43.568Z'
 sourcePath: _posts/2016-02-27-point-65-n-mercury-gtx-modular-kayak.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
