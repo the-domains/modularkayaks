@@ -1,14 +1,10 @@
 ---
-author:
-  - name: L.L.Bean
-    url: 'https://www.youtube.com/user/llbean'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=SeMFlN40JiE'
+inLanguage: en
+starred: false
 keywords:
   - bean
   - duration
@@ -21,7 +17,13 @@ keywords:
   - sit-in
   - maine
 description: "In celebration of L.L.Bean's 100th Anniversary. Our Equipment product team and kayak manufacturer Point 65N assembled what we think is the World's Longest Kayak (there doesn't appear to be an official record). Assembled from over 100 modular units and stretching over 400 feet, the behemoth took to the water along with 100 paddlers from all areas of the company during the L.L.Bean 2012 Paddlesports weekend."
-inLanguage: en
+datePublished: '2016-02-27T13:12:35.874Z'
+dateModified: '2016-02-27T13:12:26.606Z'
+author:
+  - name: L.L.Bean
+    url: 'https://www.youtube.com/user/llbean'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=SeMFlN40JiE&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=SeMFlN40JiE'
 title: 'L.L.Bean: 100-Person Kayak'
-datePublished: '2016-02-27T13:12:19.728Z'
-dateModified: '2016-02-27T13:10:23.678Z'
 sourcePath: _posts/2016-02-27-llbean-100-person-kayak.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
