@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://point65mercurysolo.blogspot.de/2015/06/point-65-north-mercury-solo-test.html'
+inLanguage: de
+starred: false
+keywords: []
+description: 'und es schwimmt auch tatsächlich. :) Für unfreundliche Miesepeter, die nicht angequatscht werden wollen, ist ein modulares Kajak nichts. Mein Point 65 North Mercury Solo begleitet mich nun in die dritte Saison und der meistgehörte Satz der letzten Wochen war: "Besteht das wirklich aus drei Teilen?"'
+datePublished: '2016-02-27T13:09:15.740Z'
+dateModified: '2016-02-27T13:08:58.483Z'
 author:
   - name: Mark Venne
     url: 'https://plus.google.com/118221349844816045685'
     avatar: {}
 related: []
-publisher:
-  url: 'http://point65mercurysolo.blogspot.de'
-  name: Point65mercurysolo
-  favicon: 'http://point65mercurysolo.blogspot.de/favicon.ico'
-  domain: point65mercurysolo.blogspot.de
-keywords: []
-description: 'und es schwimmt auch tatsächlich. :) Für unfreundliche Miesepeter, die nicht angequatscht werden wollen, ist ein modulares Kajak nichts. Mein Point 65 North Mercury Solo begleitet mich nun in die dritte Saison und der meistgehörte Satz der letzten Wochen war: "Besteht das wirklich aus drei Teilen?"'
-inLanguage: de
 app_links: []
-isBasedOnUrl: 'http://point65mercurysolo.blogspot.de/2015/06/point-65-north-mercury-solo-test.html'
 title: Point65 Mercury Solo
-datePublished: '2016-02-27T13:08:48.448Z'
-dateModified: '2016-02-27T13:08:14.330Z'
 sourcePath: _posts/2016-02-27-point65-mercury-solo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Point65mercurysolo
+  domain: point65mercurysolo.blogspot.de
+  url: 'http://point65mercurysolo.blogspot.de'
+  favicon: 'http://point65mercurysolo.blogspot.de/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
