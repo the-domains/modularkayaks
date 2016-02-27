@@ -1,0 +1,28 @@
+name: Modularkayaks
+favicon: null
+layout_spectrum: 0.030683794291689992
+typography_spectrum: 0.5528662831056863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3543779437895864
+  lightness: 0.5593056981451809
+  saturation: 0.10829969588667154
+  rhythmicContrast: 0.9688286227174103
+purpose: []
