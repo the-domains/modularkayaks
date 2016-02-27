@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Um es vorwegzunehmen: Das Boot ist in einem Stück ins Wasser und in einem Stück wieder aus dem Wasser gekommen. ;-) Aber von vorne: Meine größte Sorge war, daß sich das Point 65 Mercury zwar nett auf stehenden Gewässern paddeln läßt, daß es aber die Wendigkeit, die ein Kleinfluss erfordert, und vor allem die Stabilität und der Zusammenhalt der einzelnen Teile bei Grundkontakt oder Auflaufen nicht mitbringt.'
-datePublished: '2016-02-27T13:44:26.515Z'
-dateModified: '2016-02-27T13:44:17.742Z'
+datePublished: '2016-02-27T13:44:46.754Z'
+dateModified: '2016-02-27T13:44:37.194Z'
 author:
   - name: Mark Venne
     url: 'https://plus.google.com/118221349844816045685'
