@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=RUPofK-mAO4'
+inLanguage: de
+starred: false
+keywords: []
+description: 'BeachandPool.de präsentiert: Die revolutionäre Bauweise der bekannten Point65 Kajaks ist auch hier wieder erkennbar. Mit dem patentiertem „Snap-Tap"- System kann das Freizeitkajak in wenigen Sekunden von einem Einsitzer in einen Zweisitzer verwandelt werden. Durch das Schnellverschluss-System kann das Kajak problemlos in Ihren Kofferraum verstaut werden.'
+datePublished: '2016-02-27T13:03:35.489Z'
+dateModified: '2016-02-27T13:03:23.986Z'
 author:
   - name: Richard Schülein
     url: 'https://www.youtube.com/user/BeachAndPoolTV'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'BeachandPool.de präsentiert: Die revolutionäre Bauweise der bekannten Point65 Kajaks ist auch hier wieder erkennbar. Mit dem patentiertem „Snap-Tap"- System kann das Freizeitkajak in wenigen Sekunden von einem Einsitzer in einen Zweisitzer verwandelt werden. Durch das Schnellverschluss-System kann das Kajak problemlos in Ihren Kofferraum verstaut werden.'
-inLanguage: de
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=RUPofK-mAO4&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=RUPofK-mAO4'
 title: POINT 65°N Mercury Tandem und Solo Kajak
-datePublished: '2016-02-27T13:03:17.073Z'
-dateModified: '2016-02-27T12:59:47.626Z'
 sourcePath: _posts/2016-02-27-point-65degreen-mercury-tandem-und-solo-kajak.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
