@@ -1,19 +1,13 @@
 name: Modularkayaks
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d98ad7-89d3-447c-80b9-93b4439301e3.jpg
 layout_spectrum: 0.49007
 typography_spectrum: 0.25542
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#bcc2c0'
@@ -26,3 +20,10 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.9688286227174103
 purpose: []
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
