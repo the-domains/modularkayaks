@@ -1,24 +1,24 @@
+layout_spectrum: 0.36391258309595287
+typography_spectrum: 0.38104693917557597
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.29604748799465597
+  lightness: 0.6297113115433604
+  saturation: 0.5671668963041157
+  rhythmicContrast: 0.958611857611686
 name: Modularkayaks
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d98ad7-89d3-447c-80b9-93b4439301e3.jpg
-layout_spectrum: 0.49007
-typography_spectrum: 0.25542
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#bcc2c0'
-    - '#830604'
-    - '#040200'
-    - '#ea6576'
-    - '#425e2e'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.9688286227174103
 purpose: []
 title: ''
 author:
