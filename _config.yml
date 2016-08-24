@@ -1,5 +1,6 @@
-layout_spectrum: 0.36391258309595287
 typography_spectrum: 0.38104693917557597
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#E1E6FA'
@@ -11,19 +12,22 @@ color:
   lightness: 0.6297113115433604
   saturation: 0.5671668963041157
   rhythmicContrast: 0.958611857611686
-name: Modularkayaks
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d98ad7-89d3-447c-80b9-93b4439301e3.jpg
-cta: {}
-analytics: {}
 opengraph:
   type: ''
   appId: ''
-purpose: []
-title: ''
+layout_spectrum: 0.36391258309595287
+analytics: {}
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d98ad7-89d3-447c-80b9-93b4439301e3.jpg
+name: Modularkayaks
+cta: {}
+navigation:
+  - name: Point65 Mercury Solo
+    id: e136e566-72fc-4d8d-a2a2-8b887e0b57eb
+    type: content
+title: ''
+purpose: []
